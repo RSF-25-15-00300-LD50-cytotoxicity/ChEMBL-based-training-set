@@ -25,7 +25,9 @@ Thus, in the course of this project it was decided to study ways to mitigate thi
 - conceptual problem of selecting targets related to the potential safety issues may be solved via allowing to predict interactions with all human targets for which training data are available, marking those present in various lists and allowing users to exclude target or several targets from the results of prediction.
 - computer prediction is by itself the way to mitigate some of the limitations of experimental studies: time, money, materials (not to replace experimental studies in general, this is distinct topic).
 Latter the results of prediction could be compared in groups of successful drugs and drugs, which development have been terminated not like it was described in
+
 [Поройков В. В. и др. Оценка безопасности фармакологически активных веществ in silico c применением методов машинного обучения: обзор //Безопасность и риск фармакотерапии. – 2023. – Т. 11. – №. 4. – С. 372-389.]
+
 on example of prediction of adverse and toxic effects.
 
 Important step is to prepare the training set.
